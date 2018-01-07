@@ -32,3 +32,9 @@ h3{
   font-size: 23px;
   font-weight: bold;
 }
+#copy{
+position: absolute; left; 11px; bottom;
+color: white;
+background-color: dimgray;
+background-size: cover;
+}
